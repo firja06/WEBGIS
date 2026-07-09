@@ -1,6 +1,5 @@
 Nama Kelompok : Kelompok 6
-Ketua Kelompok : Muhammad Tamirul Umam (2410010444) 
-Anggota :
+Ketua Kelompok : Muhammad Tamirul Umam (2410010444)
 1. Muhammad Daffaa Ramadhan (2410010498) 
 2. Muhammad Firja (2410010529) 
 3. Muhammad Raffy (2410010326)
